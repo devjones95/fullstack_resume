@@ -1,0 +1,56 @@
+body {
+    font-family: sans-serif;
+    background-color: lightgray;
+    line-height: 1.5; /* Definindo o espaçamento entre as linhas. */
+}
+
+hr {
+    margin: 0 30px 0 30px; /* editando as margen da linha HR para ficarem do mesmo tamanho das caixas do título. */
+}
+
+h2 {
+    color: blue;
+    text-align: center;
+    background-color: lightskyblue;
+    width:auto;
+    align-items: center;
+    margin: 0 30px 0 30px;
+    padding: 10px;
+    border: 2px solid black;
+}
+
+.contato {
+    text-align: right;
+    margin-right: 30px;
+}
+
+.formacao {
+    margin-left: 30px;
+    color: blue;
+}
+
+h4 {
+    margin-left: 30px;
+    text-decoration: solid;
+}
+
+.qualificacoes {
+    margin-left: 30px;
+    color: blue;
+}
+
+.experiencias {
+    margin-left: 30px;
+    color: blue;
+}
+
+.certificacoes {
+    margin-left: 30px;
+    color: blue;
+}
+
+.idiomas {
+    margin-left: 30px;
+    color: blue;
+}
+
