@@ -19,6 +19,30 @@ h2 {
     border: 2px solid black;
 }
 
+/*Editando o novo menu de informações pessoais*/
+.menu {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.menu li {
+    list-style-type: none;
+    background-color: yellow;
+    margin: 10px;
+    display: inline-block;
+    padding: 0px;
+}
+
+.menu a {
+    background-color: lightskyblue;
+    padding: 16px;
+    display: inline-block;
+}
+
+.menu a:hover {
+    background-color: aqua;
+}
+
 .contato {
     text-align: right;
     margin-right: 30px;
